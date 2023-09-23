@@ -1,0 +1,6 @@
+email, subject, message
+
+x@y.com,Helloo,Hi hello 
+hamcurtis@me.com,asdofji,alskjdflasjlijaslbij
+hamcurtis@me.com,alsdfjlk,eworiejolkxcnvoin
+x@y.com,;lk;oinbd,sldkfjoewinblkn
